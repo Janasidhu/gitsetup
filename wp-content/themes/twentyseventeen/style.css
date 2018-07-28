@@ -4325,3 +4325,8 @@ p > object:only-child {
 		padding: 0;
 	}
 }
+
+.test
+{
+	font-size:20px;
+}
